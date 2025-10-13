@@ -1,0 +1,13 @@
+prefix=C:/IrisFlowerClassification/myvenv/Library
+exec_prefix=C:/IrisFlowerClassification/myvenv/Library
+libdir=C:/IrisFlowerClassification/myvenv/Library/lib
+sharedlibdir=C:/IrisFlowerClassification/myvenv/Library/lib
+includedir=C:/IrisFlowerClassification/myvenv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.3.1
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
