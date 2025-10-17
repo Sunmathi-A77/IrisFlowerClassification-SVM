@@ -12,6 +12,10 @@ You can access the interactive Iris Flower Classification app here:
 
 [🌸 Iris Flower Classifier App] https://irisflowerclassification-svm.streamlit.app/ 
 
+<img src="https://github.com/user-attachments/assets/1d659f18-2c58-4158-95e4-10a5bcea93b3" width="300" alt="Iris Flower Classifier Screenshot">
+
+<img src="https://github.com/user-attachments/assets/8d7e982b-9a6b-400b-959f-4edeee87c990" width="300" alt="Iris Flower Classifier Screenshot">
+
 ## 📂 Dataset
 
 The dataset used is the classic Iris dataset from Kaggle: https://www.kaggle.com/datasets/uciml/iris
