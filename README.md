@@ -38,8 +38,7 @@ Species (Setosa, Versicolor, Virginica)
 
 ### Clone the repository:
 
-git clone https://github.com/your-username/IrisFlowerClassification.git
-cd IrisFlowerClassification
+git clone cd
 
 ### Create and activate a virtual environment (optional but recommended):
 
