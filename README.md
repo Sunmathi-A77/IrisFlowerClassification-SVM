@@ -43,7 +43,9 @@ git clone cd
 ### Create and activate a virtual environment (optional but recommended):
 
 python -m venv myvenv
+
 source myvenv/bin/activate      # Linux/Mac
+
 myvenv\Scripts\activate         # Windows
 
 ### Install required libraries:
